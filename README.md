@@ -1,4 +1,12 @@
-Erik- Currently Working
+Changes needed
+People leaving stalls if it takes too long
+Linking everything up
+Creating proper order times (current amounts are placeholders change in input parameters)
+
+# Changelog 0.3
+- Erik  
+Created Merchandise and Food stalls  
+
 # Changelog 0.2
 - Erik  
 Organized parts into final part  
