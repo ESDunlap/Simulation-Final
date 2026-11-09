@@ -1,4 +1,4 @@
-Erik- Currently Finished
+Erik- Currently Working
 # Changelog 0.2
 - Erik  
 Organized parts into final part  
