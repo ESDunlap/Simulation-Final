@@ -1,7 +1,7 @@
-Changes needed
-People leaving stalls if it takes too long
-Linking everything up
-Creating proper order times (current amounts are placeholders change in input parameters)
+Changes needed  
+People leaving non-bathroom lines if it takes too long  
+Linking everything up  
+Creating proper order times (current amounts are placeholders change in input parameters)  
 
 # Changelog 0.3
 - Erik  
