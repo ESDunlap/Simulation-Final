@@ -3,6 +3,14 @@ People leaving non-bathroom lines if it takes too long
 Linking everything up  
 Creating proper order times (current amounts are placeholders change in input parameters)  
 
+# Changelog 0.4 - Eddie
+-Added Section Assignment (TktType_
+-Added path logic (AssignedSeatNode) to assigned seats after security
+  -Can be used for anytime we need to send fans back to their seat
+-Different pictures for each type of entity based on Ticket Type
+-Set max population to 10,000
+-Added trip state variable for entities
+
 # Changelog 0.3
 - Erik  
 Created Merchandise and Food stalls  
