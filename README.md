@@ -1,7 +1,8 @@
 Changes needed  
-People leaving non-bathroom lines if it takes too long  
 Linking everything up  
 Creating proper order times (current amounts are placeholders change in input parameters)  
+# Changelog 0.5 - Erik
+-Added in proper reneging logic for merchandise (changing for concessions should be easy)
 
 # Changelog 0.4 - Eddie
 -Added Section Assignment (TktType)  
