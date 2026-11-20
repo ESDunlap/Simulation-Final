@@ -1,3 +1,4 @@
+Current Working on it: Erik
 Changes needed  
 Linking everything up  
 Creating proper order times (current amounts are placeholders change in input parameters)  
