@@ -1,7 +1,14 @@
-Current Working on it: Erik
 Changes needed  
-Linking everything up  
-Creating proper order times (current amounts are placeholders change in input parameters)  
+Replacing old stands with the new ones
+Creating total amount of money earned statistic
+Bug testing just to make sure everything still works
+
+# Changelog 0.6
+- Erik
+Added in processing time and beer logic
+Added in reneging logic for both kinds of queues
+Added in proper time stamps
+
 # Changelog 0.5 
 - Erik  
 Added in proper reneging logic for merchandise (changing for concessions should be easy)
