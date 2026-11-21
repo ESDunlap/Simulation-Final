@@ -1,10 +1,10 @@
 Changes needed  
-Replacing old stands with the new ones
-Creating total amount of money earned statistic
-Bug testing just to make sure everything still works
+Replacing old stands with the new ones  
+Creating total amount of money earned statistic  
+Bug testing just to make sure everything still works  
 
 # Changelog 0.6
-- Erik
+- Erik  
 Added in processing time and beer logic
 Added in reneging logic for both kinds of queues
 Added in proper time stamps
