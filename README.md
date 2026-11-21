@@ -1,13 +1,13 @@
 Changes needed  
-Complete routing logic for other seating sections (I plan on doing this tomorrow)
+Complete routing logic for other seating sections (I plan on doing this tomorrow)  
 Creating total amount of money earned statistic  
 Bug testing just to make sure everything still works  
 
 # Changelog 0.7 - Eddie
-Replaced all concession and merchandise stands with new version  
-HalfTimeAcitivity Variable made to help with routing from seats to other areas  
-General seating routing logic Setup  
-  Will assign a trip number upon exiting as part of the trip variable setup  
+- Replaced all concession and merchandise stands with new version  
+- HalfTimeAcitivity Variable made to help with routing from seats to other areas  
+- General seating routing logic Setup  
+  -- Will assign a trip number upon exiting as part of the trip variable setup  
 
 # Changelog 0.6
 - Erik  
