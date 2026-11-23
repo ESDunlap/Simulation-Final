@@ -1,7 +1,7 @@
-Currently Working - Erik
-Attempting money earned
-Working on what to submit
-Attempting to implement wages
+Currently Working - Erik  
+Attempting money earned  
+Working on what to submit  
+Attempting to implement wages  
 
 Changes needed
 Complete routing logic for other seating sections (I plan on doing this tomorrow)  
