@@ -1,6 +1,11 @@
-Changes needed  
+Currently Working - Erik
+Attempting money earned
+Working on what to submit
+Attempting to implement wages
+
+Changes needed
 Complete routing logic for other seating sections (I plan on doing this tomorrow)  
-Creating total amount of money earned statistic  
+Creating total amount of money earned statistic
 Bug testing just to make sure everything still works  
 
 # Changelog 0.7 - Eddie
