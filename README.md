@@ -1,12 +1,16 @@
-Currently Working - Erik  
-Attempting money earned  
-Working on what to submit  
-Attempting to implement wages  
-
 Changes needed
 Complete routing logic for other seating sections (I plan on doing this tomorrow)  
 Creating total amount of money earned statistic
 Bug testing just to make sure everything still works  
+
+Possible bugs?
+People only begin shopping about 2/3 through the simulation
+
+
+# Changelog 0.8
+-Erik  
+Added in total money gained  
+Added tables and input parameters to show total cost of everything
 
 # Changelog 0.7 - Eddie
 - Replaced all concession and merchandise stands with new version  
