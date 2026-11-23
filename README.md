@@ -1,10 +1,9 @@
-Changes needed
+Changes needed  
 Complete routing logic for other seating sections (I plan on doing this tomorrow)  
-Creating total amount of money earned statistic
 Bug testing just to make sure everything still works  
 
-Possible bugs?
-People only begin shopping about 2/3 through the simulation
+Possible bugs?  
+People only begin shopping about 2/3 through the simulation  
 
 
 # Changelog 0.8
