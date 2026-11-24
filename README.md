@@ -1,10 +1,12 @@
 Changes needed  
-Complete routing logic for other seating sections (I plan on doing this tomorrow)  
 Bug testing just to make sure everything still works  
 
 Possible bugs?  
-People only begin shopping about 2/3 through the simulation  
+People only begin shopping about 2/3 through the simulation (Due to seat server processing time, I detailed it in a message to you on Canvas)
 
+# Changelog 0.9 - Eddie
+- Fully connected each seating area to the activities nearby their general area
+- Updated state assignments and processing times of gates and seating servers)  
 
 # Changelog 0.8
 -Erik  
